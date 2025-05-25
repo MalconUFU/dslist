@@ -1,0 +1,16 @@
+.cardLista-container{
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+    margin: 16px 0;
+    padding: 12px;
+    align-items: center;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    
+}
+
+.nome-lista{
+    color: black;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
