@@ -29,10 +29,10 @@
 .card-descricao {
   margin: 4px 0 8px;
   font-size: 0.95rem;
-  color: #555;
+  color: black
 }
 
 .card-ano {
   font-weight: bold;
-  color: #1f62ff;
+  color: black;
 }
