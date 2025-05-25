@@ -1,16 +1,16 @@
 import React from 'react';
 import Header from '../components/Header/Header';
-import ListaPorGenero from '../components/ListaPorGenero/ListaPorGenero';
 import Footer from '../components/Footer/Footer';
+import Jogo from '../components/Jogo/Jogo';
 
-function Genero() {
+function PaginaJogo() {
     return (
         <>
             <Header />
-            <ListaPorGenero/>
+            <Jogo/>
             <Footer/>
         </>
     );
 }
 
-export default Genero;
+export default PaginaJogo;

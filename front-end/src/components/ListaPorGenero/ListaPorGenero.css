@@ -1,0 +1,11 @@
+.lista-genero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.link-card {
+  text-decoration: none;
+  color: inherit;
+}
